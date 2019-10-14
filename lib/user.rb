@@ -1,3 +1,3 @@
 class User 
-  def initialize(first)
+  def initialize(first, last)
 end 
